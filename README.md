@@ -1,3 +1,14 @@
+## Advent of Chuck
+
+Chuck Norris jokes in an advent calendar format.
+
+Showcase of feel-good animations 🤩 made with react + css
+
+Based on a jokes API which is no longer available :(
+
+
+# Setup
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
