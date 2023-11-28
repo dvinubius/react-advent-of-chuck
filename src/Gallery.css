@@ -1,0 +1,14 @@
+.GalleryLayout {
+    --size: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    width: var(--size);
+    height: var(--size);
+    background-color: var(--gallery-bg-col);
+
+    perspective: 1200px;
+}
